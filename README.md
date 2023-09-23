@@ -18,7 +18,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karimhasibuan&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="karimhasibuan" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=karimhasibuan&theme=blueberry&hide_border=false" alt="karimhasibuan" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karimhasibuan&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="karimhasibuan" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=karimhasibuan&theme=blueberry&hide_border=false" alt="karimhasibuan" /></div>
 
 #
 
